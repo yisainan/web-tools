@@ -1,24 +1,24 @@
-# 内容 
+# 内容
 
-- [浏览器兼容类](#浏览器兼容类) 
-- [图片类](#图片类) 
-- [代码类](#代码类) 
-- [效率类](#效率类) 
-- [查询类🔎](#查询类🔎) 
+- [浏览器兼容类](#浏览器兼容类)
+- [图片类](#图片类)
+- [代码类](#代码类)
+- [效率类](#效率类)
+- [查询类🔎](#查询类🔎)
 
-## 浏览器兼容类 
+## 浏览器兼容类
 
-- [caniuse](https://caniuse.com/) (网站开发浏览器兼容性查询)
-- [browserhacks](http://browserhacks.com/) (一些浏览器兼容写法)
+  * [caniuse](https://caniuse.com/) (网站开发浏览器兼容性查询)
+  * [browserhacks](http://browserhacks.com/) (一些浏览器兼容写法)
 
 
-## 图片类 
+## 图片类
 
   * [Tinypng](https://tinypng.com/) | [智图](http://zhitu.isux.us/) (压缩图片)
   * [标你妹啊](http://www.biaonimeia.com/login) (psd 标注)
   * [Cool Backgrounds](https://coolbackgrounds.io/) (生成好看的渐变背景图)
-  * [carbon](https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=48px&ph=32px&ln=false&fm=Hack&fs=14px&si=false&es=2x&wm=false) (生成类似 mac 风格的代码图片，用于分享)  
-  * [Unsplash Source](https://source.unsplash.com/) (生成随机图片) 
+  * [carbon](https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=48px&ph=32px&ln=false&fm=Hack&fs=14px&si=false&es=2x&wm=false) (生成类似 mac 风格的代码图片，用于分享)
+  * [Unsplash Source](https://source.unsplash.com/) (生成随机图片)
   * [CSS Sprite Generator](https://spritegen.website-performance.org/) (生成雪碧图)
   * [iconfont](http://www.iconfont.cn/plus) (阿里巴巴矢量图标库)
   * [Preloaders](https://icons8.com/preloaders/) | [LOADING.IO](https://loading.io/) (加载图，**有些是收费的**)
@@ -26,7 +26,7 @@
   * [Material icons](https://material.io/tools/icons/?style=baseline) (Material icons图标)
   * [Iloveimg](https://www.iloveimg.com/zh-cn) (批量编辑图片的所有工具。包括压缩图片，剪裁图片，图片加水印，转化至jpg图片等等)
 
-## 代码类 
+## 代码类
 
   * [Ubuntu pastebin](https://paste.ubuntu.com/) (代码分享)
   * [Codepen](https://codepen.io/pens/) (在线代码编辑)
@@ -49,7 +49,7 @@
 
 
 
-## 效率类 
+## 效率类
 
   * [墨刀](https://modao.cc/) (画原型图)
   * [石墨文档](https://shimo.im/) (多人实时协作的云端文档与表格)
@@ -69,7 +69,7 @@
   * [UZER.ME](https://uzer.me/) (能够在线使用ps，ai，office，xmind，火狐浏览器等多个应用的网站)
   * [NiceTool](http://www.nicetool.net/) (在线工具集合网站)
 
-## 查询类🔎 
+## 查询类🔎
 
  * [devhints](https://devhints.io/) (常用速查表，快速查询各类框架和库的常用方法，很实用)
  * [印记中文](https://docschina.org/) (快速查询各类框架和周边库的中文文档)
