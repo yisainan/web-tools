@@ -10,6 +10,8 @@
 - [工具类](#工具类)
 - [周报类](#周报类)
 - [开发中心类](#开发中心类)
+- [Nodejs类](#Nodejs类)
+- [开发中心类](#开发中心类)
 
 ## 浏览器兼容类
 
@@ -112,6 +114,9 @@
  * [大前端工具集 - 聂微东](https://github.com/nieweidong/fetool)
  * [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
  * [常用的JavaScript代码片段](http://microjs.com/)
+ * [WEB前端开发](http://microjs.com/)
+ * [常用的JavaScript代码片段](http://www.css88.com/)
+ * [w3help](http://www.w3help.org/) (综合Bug集合网站)
 
 ## 入门类
 
@@ -126,18 +131,23 @@
  * [奇舞周刊](http://old.75team.com/weekly/)
  * [码农周刊](http://weekly.manong.io/)
  * [JS前端开发群月报](http://www.kancloud.cn/jsfront/month/82796)
+ * [A JS tip per day!](http://www.jstips.co/)
+ * [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
 
 ## 开发中心类
 
- * [mozilla js参考]()
- * [chrome开发中心（chrome的内核已转向blink）]()
- * [safari开发中心]()
- * [microsoft js参考]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [前端入门教程]()
- * [前端入门教程]()
- * [前端入门教程]()
+ * [mozilla js参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+ * [chrome开发中心（chrome的内核已转向blink）](https://developer.chrome.com/extensions/api_index.html)
+ * [safari开发中心](https://developer.apple.com/library/safari/navigation)
+ * [microsoft js参考](https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94.aspx)
+ * [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
+ * [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh)
+
+## Nodejs类
+
+ * [nodejs 篇幅比较巨大](http://liuqing.pw/)
+ * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+ * [篇幅比较少](http://www.rainweb.cn/article/category/Nodejs)
  * [前端入门教程]()
  * [前端入门教程]()
  * [前端入门教程]()
