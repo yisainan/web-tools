@@ -104,7 +104,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
   * [基于zepto的fullpage](https://github.com/yanhaijing/zepto.fullpage)
   * [[WebApp]定宽网页设计下，固定宽度布局开发WebApp并实现多终端下WebApp布局自适应](http://www.cnblogs.com/plums/archive/2013/01/10/WebApp-fixed-width-layout-of-multi-terminal-adapter-since.html)
 
-
 ## 代码类
 
   * [Ubuntu pastebin](https://paste.ubuntu.com/) (代码分享)
@@ -125,8 +124,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
   * [Asciiflow](http://asciiflow.com/) (生成类似代码注释里那种佛祖的代码。。自己画😄)
   * [PXtoEM](http://pxtoem.com/) (PX EM 单位换算)
   * [epic-spinners](http://epic-spinners.epicmax.co/#/) (一个好看的css loading 代码库)
-
-
 
 ## 效率类
 
@@ -437,11 +434,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)
  * [Smart UI](http://smartui.chinamzz.com/)
  * [雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids)
- * [book]()
- * [book]()
- * [book]()
- * [book]()
- * [book]()
 
 ## 图表类
 
@@ -784,7 +776,3 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [jQuery CDN](http://code.jquery.com/)
  * [Google jQuery CDN](http://www.google-jquery-cdn.com/)
  * [微软CDN](http://www.asp.net/ajax/cdn)
-
-
-
- * [制作教程]()
