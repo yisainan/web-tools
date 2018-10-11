@@ -7,7 +7,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 
 # 内容
 
-- [浏览器兼容类](#浏览器兼容类)
 - [图片类](#图片类)
 - [代码类](#代码类)
 - [效率类](#效率类)
@@ -58,12 +57,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 - [移动,微信调试](#移动,微信调试)
 - [前端导航网站](#前端导航网站)
 - [常用CDN](#常用CDN)
-
-## 浏览器兼容类
-
-  * [caniuse](https://caniuse.com/) (网站开发浏览器兼容性查询)
-  * [browserhacks](http://browserhacks.com/) (一些浏览器兼容写法)
-
 
 ## 图片类
 
