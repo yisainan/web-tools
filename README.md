@@ -42,6 +42,28 @@
   * [codepen](http://codepen.io/)
   * [17素材](http://www.17sucai.com)
   * [摄图网](http://699pic.com/)
+  * [myfocus](https://github.com/koen301/myfocus)
+  * [myfocus-官方演示站](http://www.chhua.com/myfocus)
+  * [SuperSlidev2.1 -- 大话主席](http://www.superslide2.com/)
+  * [soChange](http://www.bujichong.com/sojs/soChange/index.html)
+  * [单屏轮播sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
+  * [左右按钮多图切换](http://bxslider.com/examples/carousel-demystified)
+  * [fullpage全屏轮播](https://github.com/alvarotrigo/fullPage.js)
+  * [无缝切换](http://www.swipejs.com/)
+  * [滑屏效果](http://www.idangero.us/swiper)
+  * [全屏fullpage](https://github.com/peunzhang/fullpage)
+  * [单个图片切换](https://github.com/qiqiboy/touchslider)
+  * [单个全屏切换](https://github.com/peunzhang/slip.js)
+  * [百度的切换库](http://touch.code.baidu.com/examples.html?qq-pf-to=pcqq.group)
+  * [滑屏效果](https://github.com/saw/touch-interfaces)
+  * [旋转拖动设置](http://baijs.com/tinycircleslider)
+  * [类似于swipe切换](http://touchslider.com/)
+  * [支持多种形式的触摸滑动](http://www.swiper.com.cn/demo/index.html)
+  * [滑屏效果](https://github.com/joker-ye/main/blob/master/wap/index.html)
+  * [大话主席pc移动图片轮换](http://www.superslide2.com/)
+  * [滑屏效果](https://github.com/hahnzhu/parallax.js)
+  * [基于zepto的fullpage](https://github.com/yanhaijing/zepto.fullpage)
+  * [[WebApp]定宽网页设计下，固定宽度布局开发WebApp并实现多终端下WebApp布局自适应](http://www.cnblogs.com/plums/archive/2013/01/10/WebApp-fixed-width-layout-of-multi-terminal-adapter-since.html)
 
 
 ## 代码类
@@ -284,6 +306,9 @@
  * [jqmobile 手册](http://app-framework-software.intel.com/api.php)
  * [移动浏览器开发集合](https://github.com/maxzhang/maxzhang.github.com/issues)
  * [移动开发大杂烩](https://github.com/hoosin/mobile-web-favorites)
+ * [fastclick](https://github.com/ftlabs/fastclick)
+ * [no-click-delay](https://github.com/mmastrac/jquery-noclickdelay)
+ * [ionic](https://github.com/ychow/ionic-guide)
 
 ## jQuery类
 
@@ -365,6 +390,19 @@
  * [gitref](http://gitref.justjavac.com/)
  * [book](http://git-scm.com/book/zh)
  * [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic)
+ * [MUI-最接近原生APP体验的高性能前端框架](http://dcloudio.github.io/mui)
+ * [Amaze UI中国首个开源 HTML5 跨屏前端框架](http://amazeui.org/)
+ * [淘宝 HTML5 前端框架](http://m.sui.taobao.org/)
+ * [KISSY - 阿里前端JavaScript库](http://docs.kissyui.com/)
+ * [网易Nej - Nice Easy Javascript](http://nej.netease.com/)
+ * [Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)
+ * [Smart UI](http://smartui.chinamzz.com/)
+ * [雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids)
+ * [book]()
+ * [book]()
+ * [book]()
+ * [book]()
+ * [book]()
 
 ## 图表类
 
@@ -398,27 +436,316 @@
  * [css模块](http://www.75team.com/archives/1049)
  * [前端规范资源列表](https://github.com/ecomfe/spec)
 
- 
+## 各大公司开源项目
 
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
+ * [Facebook Projects](https://code.facebook.com/projects/web)
+ * [百度web前端研发部](http://fex.baidu.com/)
+ * [百度EFE](http://efe.baidu.com/)
+ * [百度github](https://github.com/fex-team)
+ * [alloyteam](http://www.alloyteam.com/)
+ * [alloyteam-github](http://alloyteam.github.io/)
+ * [alloyteam-AlloyGameEngine](https://github.com/AlloyTeam/AlloyGameEngine)
+ * [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner)(即时修改，即时保存，设计稿较正，其它开发辅助工具)
+ * [H5交互页编辑器AEditor介绍](http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shaoH5)(动画交互页开发的工具介绍)
+ * [AEditor](http://aeditor.alloyteam.comh5/)(动画交互页开发的工具)
+ * [maka](http://forum.maka.im/wordpress)
+ * [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
+ * [腾讯html5](http://cube.qq.com/)
+ * [奇舞团开源项目](http://75team.github.io/)
+ * [Qunar UED](http://ued.qunar.com/)
+ * [Scrat](http://scrat.io/)
+
+## 常用类
+
+ * [ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性](http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome)
+ * [模拟键盘](http://mottie.github.io/Keyboard)
+ * [拼音](https://github.com/hotoo/pinyin)
+ * [中国个人身份证号验证](https://github.com/mc-zone/IDValidator)
+
+## 算法类
+
+ * [数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)
+ * [常见排序算法（JS版）](https://github.com/twobin/twobinSort)
+ * [经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)
+ * [常见排序算法-js版本](https://github.com/hechangmin/jssort)
+ * [JavaScript 算法与数据结构 精华集](https://github.com/lightningtgc/JavaScript-Algorithms)
+ * [面试常考算法题精讲](http://www.nowcoder.com/live/courses)
+
+## JSON类
+
+ * [模拟生成JSON数据](http://beta.json-generator.com/)
+ * [返回跨域JSONAPI](http://jsonp.afeld.me/)
+
+## 分享类
+
+ * [百度分享](http://share.baidu.compc/)
+ * [JiaThis](http://jiathis.compc/)
+ * [社会化分享组件](http://developer.baidu.com/soc/share)
+ * [ShareSDK 轻松实现社会化功能](http://www.mob.com/#/index)
+ * [友盟分享](http://dev.umeng.com/social/android/quick-integration)
+
+## 富文本编辑器类
+
+ * [功能齐全 tinymce](https://www.tinymce.com/)
+ * [百度 ueditor](http://ueditor.baidu.com/website
+ * [经典的ckeditor](http://ckeditor.com/)
+ * [经典的kindeditor](http://kindeditor.net/)
+ * [wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg)
+ * [一个有情怀的编辑器。Bach's Editor](http://integ.github.io/BachEditor)
+ * [tower用的编辑器](https://github.com/mycolorway/simditor)
+ * [summernote 编辑器](https://github.com/summernote/summernote)
+ * [html5编辑器](http://neilj.github.io/Squire)
+ * [XEditor](http://lab.hustlzp.com/XEditor)
+ * [wangEditor](https://github.com/wangfupeng1988/wangEditor)
+
+## Gulp Grunt类
+
+ * [Gulp官网](http://gulpjs.com/)
+ * [Gulp中文网](http://www.gulpjs.com.cn/)
+ * [gulp资料收集](https://github.com/Platform-CUF/use-gulp)
+ * [Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
+ * [Gulp插件](http://gulpjs.com/plugins)
+ * [Gulp探究折腾之路(I)](http://www.jeffjade.com/2015/11/25/2015-11-25-toss-gulp/)
+ * [Gulp折腾之路(II)](http://www.jeffjade.com/2016/01/19/2016-01-19-toss-gulp/)
+ * [Gulp不完全入门教程](http://www.ido321.com/1622.html)
+ * [为什么使用gulp?](https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33)
+ * [Gulp安装及配合组件构建前端开发一体化](http://www.dbpoo.com/getting-started-with-gulp)
+ * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
+ * [Gulp 入门指南 - nimojs](https://github.com/nimojs/blog/issues/19)
+ * [Gulp in Action](http://www.imooc.com/video/5692)
+ * [Gulp开发教程（翻译）](http://www.w3ctech.com/topic/134)
+ * [前端构建工具gulpjs的使用介绍及技巧](http://www.cnblogs.com/2050/p/4198792.html)
+ * [gruntjs](http://gruntjs.com/)
+ * [Grunt中文网](http://www.gruntjs.net/)
+
+## Fis类
+
+ * [fis 官网](http://fex-team.github.io/fis-site/index.html)
+ * [fis](http://fis.baidu.com/)
+
+## 在线类
+
+ * [js 在线编辑 - runjs](http://runjs.cn/)
+ * [js 在线编辑 - jsbin](http://jsbin.com/)
+ * [js 在线编辑 - codepen](http://codepen.io/)
+ * [js 在线编辑 - jsfiddle](http://jsfiddle.net/)
+ * [java 在线编辑 - runjs](http://ideone.com/)
+ * [js 在线编辑 - hcharts](http://code.hcharts.cn/)
+ * [js 在线编辑 - jsdm](http://jsdm.com/)
+ * [sql 在线编辑 - sqlfiddle](http://sqlfiddle.com/)
+ * [mozilla 在线编辑器](https://thimble.mozilla.org/)
+ * [google在线工具](https://developers.google.com/speed/pagespeed/insights)
+ * [阿里测](http://www.alibench.com/)
+ * [阿里-免费测试服务](http://itest.aliyun.com/)
+ * [阿里-F2etest多浏览器兼容性测试解决方案](https://github.com/alibaba/f2etest)
+ * [js性能测试](http://jsperf.com/)
+
+## 优化类
+
+ * [Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)
+ * [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
+ * [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
+ * [给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)
+ * [复杂应用的 CSS 性能分析和优化建议](http://www.orzpoint.com/profiling-css-and-optimization-notes)
+ * [前端性能监控总结](http://www.xiaoqiang.org/javascript/font-end-performance-monitor.html)
+ * [前端技术：网站性能优化之CSS无图片技术](http://my.eoe.cn/tuwandou/archive/4544.html)
+ * [浏览器的加载与页面性能优化](http://www.baiduux.com/blog/2011/02/15/browser-loading)
+ * [页面加载中的图片性能优化](http://www.w3ctech.com/p/1503)
+ * [Yslow——性能优化](http://www.yslow.net/category.php?cid=20)
+ * [YSLOW中文介绍](http://www.cnblogs.com/yslow)
+ * [转一篇Yahoo关于网站性能优化的文章，兼谈本站要做的优化](http://www.360ito.com/article/40.html)
+ * [Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)
+ * [网站性能优化指南：什么使我们的网站变慢？](http://blog.jiasule.com/i/153)
+ * [网站性能优化实践，减少加载时间，提高用户体验](http://www.powereasy.net/helpyou/knowledge/ecommerce/9593.html)
+ * [浅谈网站性能优化 前端篇](http://www.umtry.com/archives/747.html)
+ * [前端重构实践之如何对网站性能优化？](http://www.adinnet.cn/blog/designview/2012-7-12/678.html)
+ * [前端性能优化：使用媒体查询加载指定大小的背景图片](http://www.gbin1.com/technology/javascript/20130708-front-end-performance-optimization-9)
+ * [网站性能系列博文](http://www.mykuer.com/post/factors-that-affect-the-speed-of-web-site-open.html)
+ * [加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)
+ * [前端性能的测试与优化](http://mzhou.me/article/95310)
+ * [分享网页加载速度优化的一些技巧？](http://www.gbin1.com/technology/html/20130217-tips-for-speed-up-page-loading)
+ * [页面加载中的图片性能优化](http://www.f2es.com/images-bytes-opt)
+ * [web前端优化(基于Yslow)](http://www.tcreator.info/webSchool/website/Front-end-Opt-Yslow.html)
+ * [网站性能优化工具大全](https://www.qianduan.net/website-performance-optimization-tool.html)
+ * [【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html)
+ * [【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css)
+ * [由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)
+ * [毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)
+ * [网站性能工具Yslow的使用方法](http://blog.sina.com.cn/s/blog_6e9d2e0701017kvu.html)
+ * [前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
+ * [前端工程与性能优化（下）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
+ * [HTTPS连接的前几毫秒发生了什么](http://blog.jobbole.com/48369)
+ * [Yslow](http://uicss.cn/yslow/#more-12319)
+ * [Essential Web Performance Metrics — A Primer, Part 1](http://blog.smartbear.com/web-performance/essential-web-performance-metrics-a-primer-part-1)
+ * [Essential Web Performance Metrics — Part 2](http://blog.smartbear.com/performance/essential-web-performance-metrics-part-2)
+ * [YUISlide,针对移动设备的动画性能优化](http://jayli.github.io/blog/data/2011/12/23/yuislide.html)
+ * [Improving Site Performance](http://joelglovier.com/improving-site-performance)
+ * [让网站提速的最佳前端实践](http://segmentfault.com/a/1190000000367899)
+ * [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important)
+ * [Need for Speed – How to Improve your Website Performance](https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance)
+ * [阿里无线前端性能优化指南 (Pt.1 加载期优化](https://github.com/amfe/article/issues/1)
+ * [JavaScript 性能分析新工具 OneProfile](http://www.html-js.com/article/3083)
+ * [JavaScript 堆内存分析新工具 OneHeap](http://www.html-js.com/article/3091)
+
+## 前端架构
+
+ * [技术架构](http://www.zhihu.com/topic/19612641)
+ * [前端架构](http://saito.im/note/The-Architecture-of-F2E)
+ * [如何成为前端架构师](http://www.zhihu.com/question/24092572)
+ * [关于前端架构-张克军](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html)
+ * [百度腾讯offer比较（腾讯游戏VS百度基础架构）](http://www.zhihu.com/question/25583350)
+
+## 推荐作品
+
+ * [winter代码片段需要翻墙](https://gist.github.com/wintercn)
+ * [fgm](http://www.fgm.cc/learn)
+ * [岑安作品集](https://github.com/hongru/hongru.github.com)
+ * [当耐特demo集合](http://kmdjs.github.io/)
+ * [米空格 js作品](http://www.laoshu133.com/Lab)
+ * [myFocus](http://koen301.github.io/)
+ * [SeaJS组件库](http://panxuepeng.github.io/seajslib)
+ * [颜海镜作品](http://yanhaijing.com/myProject)
+ * [脚儿网作品](http://jo2.org/category/myworks)
+ * [javascript个人作品](http://www.cnitblog.com/yemoo/category/3107.html)
+ * [妙味的雷东升游戏作品](http://bbs.miaov.com/forum.php?mod=viewthread&tid=7790)
+ * [javascript作品集](http://bbs.csdn.net/topics/380227212)
+ * [云五笔，灰度产生生成工具](https://github.com/TooBug/works)
+ * [项目主页](http://koen301.github.io/)
+ * [个性的作品主页](http://zaole.net/)
+ * [播放器](http://static.tingall.com/v2/player)
+ * [ucren js demos 集](http://ucren.com/blog/demos)
+ * [智能社](http://www.zhinengshe.com/works_list.html)
+ * [实例陈列架](http://demos.shizuwu.cn/)
+ * [zoye demo](http://zoye.sinaapp.com/demo)
+ * [王员外](http://lab.yuanwai.wang/)
+ * [平凡](http://pingfan1990.sinaapp.com/)
+ * [jyg 游戏案例](http://www.lovewebgames.com/)
+ * [很多jquery插件](http://www.helloweba.com/list.html)
+ * [不羁虫 - soJs 作品系列](http://www.bujichong.com/sojs/api/index.html)
+ * [frozenui](http://frozenui.github.io/case.html)
+ * [黑白棋](http://js-game.github.io/othello)
+ * [fromone](http://yansm.github.io/fromone/index.html)
+ * [pazguille](http://pazguille.me/)
+ * [Html5 VideoPlayer](https://github.com/zmmbreeze/DeadSimpleVideoPlayer)
+ * [Proton 烟花](http://a-jie.github.io/Proton/#example)
+
+## 简历模板
+
+ * [不错的个人简历](http://learnshare.github.io/about/index.html)
+ * [简历](http://hcy2367.github.io/resume)
+ * [翁天信](http://blog.dandyweng.com/2013/07/how-my-website-was-created)
+ * [动画方式的简历](http://www.webhek.com/misc/interactive-resume)
+ * [组件丰富简历](http://www.linqing07.com/resume.html)
+ * [简历池](http://www.mojianli.com/resume/view)
+ * [haorooms博客](http://www.haorooms.com/about)
+ * [Justin Young](http://cv.youngdze.com/)
+ * [张伦](http://ncuey.sinaapp.com/CrispElite/)
+
+## 面试题
+
+ * [Web开发笔试面试题 大全](http://mianshiti.diandian.com/)
+ * [前端开发面试题](http://segmentfault.com/a/1190000000465431)
+ * [最全前端面试问题及答案总结](http://segmentfault.com/a/1190000002562454)
+ * [牛客网-笔试面经](http://www.nowcoder.com/discuss?type=2)
+
+## iconfont
+
+ * [中文字体](http://www.zhihu.com/question/21253343)
+ * [淘宝字库](http://iconfont.cn/)
+ * [字体](http://mux.alimama.com/fonts)
+ * [制作教程](http://iconfont.cn/help/platform.html)
+ * [zhangxinxu-icommon](http://www.zhangxinxu.com/wordpress/?s=icomoon)
+ * [icommon](https://icomoon.io/app)
+ * [用字体在网页中画ICON图标(推荐教程](http://imooc.com/learn/243)
+ * [字体压缩工具](http://font-spider.org/)
+
+## Fiddler
+
+ * [Fiddler调式使用知多少](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
+ * [微信fiddle](http://www.cnblogs.com/strick/p/4570006.html)
+ * [微信fiddle](http://gaoboy.com/article/26.html)
+
+## Chrome
+
+ * [Google Chrome 官方](https://developer.chrome.com/devtools)
+ * [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)
+ * [Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)
+ * [Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)
+ * [Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
+ * [Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)
+ * [Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)
+ * [Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
+ * [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
+ * [network面板](http://www.html-js.com/article/Nothing-blind%202975)
+ * [chrome开发工具快捷键](http://anti-code.com/devtools-cheatsheet)
+ * [chrome调试工具常用功能整理](http://www.html-js.com/article/2327)
+ * [Chrome 开发工具 Workspace 使用](http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace)
+ * [Chrome神器Vimium快捷键学习记录](http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html)
+ * [sass调试-w3cplus](http://www.w3cplus.com/sassguide/debug.html)
+ * [如何更专业的使用Chrome开发者工具-w3cplus](http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html)
+ * [chrome调试canvas](http://sentsin.com/web/253.html)
+ * [chrome profiles1](https://developer.chrome.com/devtools/index)
+ * [chrome profiles2](http://h5dev.uc.cn/article-25-1.html)
+ * [chrome profiles3](http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles)
+ * [chrome移动版调试](https://developer.chrome.com/devtools/docs/mobile-emulation)
+ * [chrome调试](http://ued.taobao.org/blog/2012/06/debug-with-chrome-dev-tool)
+ * [chrome的调试](http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html)
+ * [chrome console 命令详解](https://developer.chrome.com/devtools/docs/commandline-api)
+ * [查看事件绑定1](http://www.cnblogs.com/leonkao/p/3809655.html)
+ * [查看事件绑定2](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
+ * [神器——Chrome开发者工具](http://segmentfault.com/a/1190000000683599)
+ * [奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)
+ * [chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
+ * [Chrome开发者工具不完全指南](http://1ke.co/course/361)
+ * [Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)
+
+## Firebug
+
+ * [firebug视频教程](http://www.imooc.com/learn/137)
+ * [firefox 模拟器](https://developer.mozilla.org/zh-CN/docs/Tools/WebIDE)
+ * [console.log 命令详解](http://www.cnblogs.com/ctriphire/p/4116207.html)
+ * [Firebug入门指南](http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html)
+ * [Firebug控制台详解](http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html)
+
+## 移动,微信调试
+
+ * [浏览器端调试安卓](https://openstf.github.io/)
+ * [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug)
+ * [使用 Chrome 远程调试 Android 设备](https://github.com/yujiangshui/CN-Chrome-DevTools/blob/remote-debugging/md/Use-Tools/remote-debugging.md)
+ * [mac移动端调试](http://plus.uc.cn/document/webapp/doc5.html)
+ * [mac移动端调试](http://www.mihtool.com/)
+ * [无线调试攻略](http://thx.github.io/mobile/debugging-in-mobile)
+ * [无线调试攻略](http://yanhaijing.com/mobile/2014/12/17/web-debug-for-mobile)
+ * [屌爆了,完美调试 微信webview(x5](http://www.jianshu.com/p/ccf124f1f74b)
+ * [远程console](http://jsconsole.com/)
+ * [微信调试工具](http://blog.qqbrowser.cc/)
+ * [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
+
+## 前端导航网站
+
+ * [界面清爽的前端导航](http://uxbees.com/index.html)
+ * [前端导航](http://whycss.com/)
+ * [前端网址导航](http://www.daqianduan.com/nav)
+ * [前端名录](http://sentsin.com/daohang)
+ * [前端导航](http://123.jser.us/)
+ * [前端开发资源](http://www.css88.com/nav)
+ * [网址导航](http://www.haourl.cn/)
+ * [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/)
+ * [前端资源导航](https://github.com/jnoodle/f2e-collect)
+ * [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
+
+## 常用CDN
+
+ * [新浪CDN](http://lib.sinaapp.com/)
+ * [百度静态资源公共库](http://cdn.code.baidu.com/)
+ * [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
+ * [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)
+ * [开放静态文件 CDN - 七牛](http://staticfile.org/)
+ * [CDN加速 - jq22](http://www.jq22.com/cdn)
+ * [jQuery CDN](http://code.jquery.com/)
+ * [Google jQuery CDN](http://www.google-jquery-cdn.com/)
+ * [微软CDN](http://www.asp.net/ajax/cdn)
+
+
+
+ * [制作教程]()
