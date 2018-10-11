@@ -1,4 +1,4 @@
-web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工具网站集合。如果收录的项目有错误，可以通过[issue](https://github.com/yisainan/web-tools/issues)反馈给我
+web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工具网站集合。如果收录有误，可以通过[issue](https://github.com/yisainan/web-tools/issues)反馈给我
 
 说明：收录来源有[segmentfault/lemon](https://segmentfault.com/a/1190000009159834)、
               [github/shenzekun](https://github.com/shenzekun/useful-tools)
