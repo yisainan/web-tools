@@ -42,7 +42,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 - [JSON类](#JSON类)
 - [分享类](#分享类)
 - [富文本编辑器类](#富文本编辑器类)
-- [Gulp Grunt类](#Gulp Grunt类)
+- [Gulp/Grunt类](#Gulp/Grunt类)
 - [Fis类](#Fis类)
 - [在线类](#在线类)
 - [优化类](#优化类)
@@ -544,7 +544,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [XEditor](http://lab.hustlzp.com/XEditor)
  * [wangEditor](https://github.com/wangfupeng1988/wangEditor)
 
-## Gulp Grunt类
+## Gulp/Grunt类
 
  * [Gulp官网](http://gulpjs.com/)
  * [Gulp中文网](http://www.gulpjs.com.cn/)
