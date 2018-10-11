@@ -166,6 +166,22 @@
  * [runoob.com-包含各种API集合](http://www.runoob.com/)
  * [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
  * [devdocs](http://devdocs.io/)
+ * [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
+ * [验证api](http://niceue.com/validator/demo/index.php)
+ * [underscore 中文手册](http://www.css88.com/doc/underscore)
+ * [underscore源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
+ * [underscore源码分析-亚里士朱德的博客](http://yalishizhude.github.io/tags/underscore)
+ * [underscrejs en api](http://underscorejs.org/)
+ * [lodash - underscore的代替品](https://lodash.com/)
+ * [ext4api](http://extjs-doc-cn.github.io/ext4api)
+ * [backbone 中文手册](http://www.csser.com/tools/backbone/backbone.js.html)
+ * [qwrap手册](http://dev.qwrap.com/resource/js/_docs/_youa/#/qw/base/loadJs_.htm)
+ * [缓动函数](http://easings.net/zh-cn)
+ * [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
+ * [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
+ * [svg 导出 canvas](https://github.com/gabelerner/canvg)
+ * [svg 导出 png](https://github.com/exupero/saveSvgAsPng)
+ * [localStorage 库](https://github.com/machao/localStorage)
 
 ## Ecmascript类
 
@@ -311,22 +327,79 @@
  * [Sass 中文文档](http://sass.bootcss.com/)
  * [less](http://less.bootcss.com/)
 
+## Markdown类
+
+ * [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)
+ * [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
+ * [gitbook](https://www.gitbook.com/)(国外的在线markdown可编辑成书)
+ * [mdeditor](https://www.zybuluo.com/mdeditor)(一款国内的在线markdown编辑器)
+ * [stackedit](https://stackedit.io/)(国外的在线markdown编辑器，功能强大，同步云盘)
+ * [mditor](http://bh-lay.github.io/mditor)(一款轻量级的markdown编辑器)
+ * [lepture-editor](https://github.com/lepture/editor)
+ * [markdown-editor](https://github.com/jbt/markdown-editor)
+ * [作业部落](https://www.zybuluo.com/)(功能强大，速度流畅，全平台同步)
+
+## 兼容性类
+
+ * [esma 兼容列表](http://kangax.github.io/compat-table/es6)
+ * [W3C CSS验证服务](http://jigsaw.w3.org/css-validator/validator.html.zh-cn)
+ * [caniuse](http://caniuse.com/#index)
+ * [csscreator](http://csscreator.com/properties)
+ * [microsoft](https://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85.aspx)
+ * [在线测兼容-移动端](http://www.responsinator.com/)
+ * [emulators](https://www.manymo.com/emulators)
+
+## UI类
+
+ * [bootcss](http://v3.bootcss.com/)
+ * [MetroUICSS](http://www.w3cplus.com/MetroUICSS)
+ * [semantic](http://semantic-ui.com/)
+ * [Buttons](http://alexwolfe.github.io/Buttons)
+ * [kitecss](http://hiloki.github.io/kitecss)
+ * [pintuer](http://www.pintuer.com/)
+ * [amazeui](http://amazeui.org/)
+ * [worldhello](http://www.worldhello.net/gotgithub/index.html)
+ * [linuxtoy](http://igit.linuxtoy.org/contents.html)
+ * [gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn)
+ * [rogerdudler](http://rogerdudler.github.io/git-guide/index.zh.html)
+ * [gitref](http://gitref.justjavac.com/)
+ * [book](http://git-scm.com/book/zh)
+ * [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic)
+
+## 图表类
+
+ * [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
+ * [Highcharts 英文API](http://api.highcharts.com/highcharts)
+ * [ECharts 百度的图表软件](http://echarts.baidu.com/)
+ * [高德地图](http://lbs.amap.com/api)
+ * [开源的矢量图脚本框架](http://paperjs.org/)
+ * [svg 地图](http://jvectormap.com/)
+
+## 规范类
+
+ * [通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide)
+ * [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
+ * [团队合作的css命名规范-腾讯AlloyTeam前端团队](http://www.alloyteam.com/2011/10/css-on-team-naming/)
+ * [前端编码规范之js - by yuwenhui](http://yuwenhui.github.io/)
+ * [前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)
+ * [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide)
+ * [Airbnb JavaScript 编码规范（简体中文版）](https://github.com/yuche/javascript#table-of-contents)
+ * [AMD与CMD规范的区别](http://www.cnblogs.com/tugenhua0707/p/3507957.html)
+ * [KISSY 源码规范](http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html)
+ * [bt编码规范](http://codeguide.bootcss.com/)
+ * [规范加强版](https://github.com/Suxiaogang/Code_Guide)
+ * [前端代码规范 及 最佳实践](http://blog.jobbole.com/79075)
+ * [百度前端规范](http://coderlmn.github.io/code-standards)
+ * [百度前端规范](http://isobar-idev.github.io/code-standards)
+ * [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
+ * [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-rd/es6-coding-style)
+ * [JavaScript 风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)
+ * [网易前端开发规范](http://nec.netease.com/standard)
+ * [css模块](http://www.75team.com/archives/1049)
+ * [前端规范资源列表](https://github.com/ecomfe/spec)
+
  
 
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
- * [js秘密花园]()
  * [js秘密花园]()
  * [js秘密花园]()
  * [js秘密花园]()
