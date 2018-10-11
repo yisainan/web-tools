@@ -729,6 +729,10 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
  * [Chrome开发者工具不完全指南](http://1ke.co/course/361)
  * [Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)
+ * [Vimium](让您的Chrome起飞,自行在Chrome网上应用商店搜索Vimium安装)
+ * [Cmder](Win下必备神器终端，未体验)
+ * [ZSH](Mac必备软件-终极shell)
+ * [Cmder](Win下必备神器终端，未体验)
 
 ## Firebug
 
