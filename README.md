@@ -54,7 +54,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 - [Fiddler](#Fiddler)
 - [Chrome](#Chrome)
 - [Firebug](#Firebug)
-- [移动,微信调试](#移动,微信调试)
+- [移动微信调试](#移动微信调试)
 - [前端导航网站](#前端导航网站)
 - [常用CDN](#常用CDN)
 
@@ -742,7 +742,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [Firebug入门指南](http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html)
  * [Firebug控制台详解](http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html)
 
-## 移动,微信调试
+## 移动微信调试
 
  * [浏览器端调试安卓](https://openstf.github.io/)
  * [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug)
