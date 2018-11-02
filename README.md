@@ -53,7 +53,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 - [Fiddler](#Fiddler)
 - [Chrome](#Chrome)
 - [Firebug](#Firebug)
-- [移动,微信调试](#移动,微信调试)
+- [移动微信调试](#移动微信调试)
 - [前端导航网站](#前端导航网站)
 - [常用CDN](#常用CDN)
 
@@ -733,7 +733,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [Firebug入门指南](http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html)
  * [Firebug控制台详解](http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html)
 
-## 移动,微信调试
+## 移动微信调试
 
  * [浏览器端调试安卓](https://openstf.github.io/)
  * [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug)
@@ -749,16 +749,11 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 
 ## 前端导航网站
 
- * [界面清爽的前端导航](http://uxbees.com/index.html)
- * [前端导航](http://whycss.com/)
  * [前端网址导航](http://www.daqianduan.com/nav)
- * [前端名录](http://sentsin.com/daohang)
- * [前端导航](http://123.jser.us/)
  * [前端开发资源](http://www.css88.com/nav)
  * [网址导航](http://www.haourl.cn/)
  * [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/)
  * [前端资源导航](https://github.com/jnoodle/f2e-collect)
- * [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
 
 ## 常用CDN
 
