@@ -508,7 +508,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 ## 富文本编辑器类
 
  * [功能齐全 tinymce](https://www.tinymce.com/)
- * [百度 ueditor](http://ueditor.baidu.com/website
+ * [百度 ueditor](http://ueditor.baidu.com/website)
  * [经典的ckeditor](http://ckeditor.com/)
  * [经典的kindeditor](http://kindeditor.net/)
  * [wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg)
