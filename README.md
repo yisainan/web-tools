@@ -772,7 +772,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [SEO关键词查询](https://tools.aizhan.com/ydpm/)
  * [前端开发导航网站](http://www.daohangcom.com)
  * [HTML5+CSS3](http://www.html5tricks.com/)
- * jquery特效	http://www.w3school.com.cn/jquery/jquery_hide_show.asp
+ * [jquery特效](http://www.w3school.com.cn/jquery/jquery_hide_show.asp)
  * 滚动条插件API	http://yuncode.net/code/c_50dd4f40ccf3d72
  * 在线手册	http://www.jb51.net/w3school/tags/html_ref_standardattributes.htm
  * 特效代码齐全	http://www.51xuediannao.com/js/texiao/erjiliandong.html
