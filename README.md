@@ -773,100 +773,100 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [前端开发导航网站](http://www.daohangcom.com)
  * [HTML5+CSS3](http://www.html5tricks.com/)
  * [jquery特效](http://www.w3school.com.cn/jquery/jquery_hide_show.asp)
- * 滚动条插件API	http://yuncode.net/code/c_50dd4f40ccf3d72
- * 在线手册	http://www.jb51.net/w3school/tags/html_ref_standardattributes.htm
- * 特效代码齐全	http://www.51xuediannao.com/js/texiao/erjiliandong.html
- * AngularJS	http://www.runoob.com/angularjs/angularjs-controllers.html
- * 登陆注册切换代码	http://www.sucaihuo.com/js/124.html
- * 百度图表	http://echarts.baidu.com/examples.html
+ * [滚动条插件API](http://yuncode.net/code/c_50dd4f40ccf3d72)
+ * [在线手册]	(http://www.jb51.net/w3school/tags/html_ref_standardattributes.htm)
+ * [特效代码齐全](http://www.51xuediannao.com/js/texiao/erjiliandong.html)
+ * [AngularJS](http://www.runoob.com/angularjs/angularjs-controllers.html)
+ * [登陆注册切换代码](http://www.sucaihuo.com/js/124.html)
+ * [百度图表]	(http://echarts.baidu.com/examples.html)
  * http://down.admin5.com/
  * http://www.runoob.com/
- * HTML5研究小组	http://www.mhtml5.com/
-UI制造	http://www.uimaker.com/
-MooSee摩色	http://www.moosee.net/
-	http://appui.mobi/
-	http://loveui.cn/
-盒子UI	http://www.boxui.com/
-移动设备产品设计	http://www.mobiue.com/
-AndroidUI设计指导	http://www.pingwest.com/tag/android-desi
-	http://www.tappgala.com/
-js特效代码网	http://www.jstxdm.com/show-17-750.html
-微信jssdk文档	https://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html
-ionic	"http://www.ionic.wang/js_doc-index.html
-http://www.runoob.com/ionic/ionic-install.html
-http://www.ionic.wang/css_doc-index.html"
-ngrouter  路由	http://www.cnblogs.com/ys-ys/p/5017610.html
-angular自定义指令	http://blog.csdn.net/zdy0_2004/article/details/50374435
-ES6	http://www.cnblogs.com/Wayou/p/es6_new_features.html
-阮一峰的es6	http://es6.ruanyifeng.com/
-vue.js	http://cn.vuejs.org/
-requer	https://github.com/requirejs/r.js
-webpack	"http://www.jianshu.com/p/42e11515c10f#
-http://sentsin.com/web/1089.html
-http://mobile.51cto.com/web-439711.htm
-http://blog.csdn.net/sinat_17775997/article/details/52399818"
-压缩图片	https://tinypng.com/
-微信小程序	https://mp.weixin.qq.com/debug/wxadoc/dev/
-object defineprototype 	https://msdn.microsoft.com/zh-cn/library/f5s9ycex(v=vs.94).aspx
-vux	https://vux.li/#/zh-CN/demos/actionsheet
-vuex简介书	http://www.jianshu.com/p/490e7726fe67
-javascript	http://www.jb51.net/onlineread/JavaScript-Garden-CN/#function.closures
-1502FE.A的git网址	https://gitlab.com/hujun-hujun/1502FE.A/tree/master
-React 网址	https://facebook.github.io/react/index.html
-vue视频慕课网	http://www.imooc.com/video/12301    慕课网 13718811637  19931208abc
-react.api  极客学院 	"http://wiki.jikexueyuan.com/project/react/component-api.html
-http://blog.csdn.net/superskk6/article/details/7405973
-//vuex
-http://vuex.vuejs.org/zh-cn/intro.html"
-/面试	http://h5.flyfinger.com/baiduobang/qa/index.html?from=groupmessage&isappinstalled=0&mz_ca=2014668&mz_sp=6xuzH
-移动端的bug	"http://www.imooc.com/article/2415
-//echarts
-http://echarts.baidu.com/index.html"
-jslite	http://sentsin.com/web/989.html
-盒子居中	http://tieba.baidu.com/p/2743929001
-vuex 1.0	https://github.com/vuejs/vuex/tree/1.0/docs/zh-cn
-后台管理	http://wrapbootstrap.com/preview/WB0R5L90S
-element官方	http://element.eleme.io/#/zh-CN/component/date-picker、
-简书	http://www.jianshu.com/p/0a7aef90d0e8
-日历的插件	"http://www.jq22.com/yanshi3814
-http://www.jq22.com/jquery-info2107"
-微信小程序的资料	http://case.zihai24.com/index.php?p=list&lanmu=50
-以后会用的到的资料   插件	http://www.17sucai.com/pins/tag/1231.html
-滴滴出行	"https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension
-https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension
-vue-resource"
-eslint规则
-Stylus中文文档
-设备像素比	http://www.zhangxinxu.com/wordpress/2012/08/window-devicepixelratio/
-flex布局
-贝塞尔曲线测试	http://cubic-bezier.com/
-1px的border	http://blog.csdn.net/qq_34543438/article/details/73839086
-图标字体制作	http://blog.csdn.net/qq_34543438/article/details/73825973
-elementUI:	http://element.eleme.io/#/zh-CN/component/date-picker、
-mint-u移动端 ui库	http://mint-ui.github.io/
-懒人图库	http://www.lanrentuku.com/
-http://wetest.qq.com/ 。    远程真机测试 。  账号qq：33710068
-http://fis.baidu.com/   FIS3 , 为你定制的前端工程构建工具
-http://www.html5tricks.com/                                 HTML5+CSS3
-http://www.w3school.com.cn/jquery/jquery_hide_show.asp       jquery特效
-http://yuncode.net/code/c_50dd4f40ccf3d72                     滚动条插件API
-http://www.jb51.net/w3school/tags/html_ref_standardattributes.htm   在线手册
-http://www.51xuediannao.com/js/texiao/erjiliandong.html  特效代码齐全 
-http://www.runoob.com/angularjs/angularjs-controllers.html AngularJS
-http://www.sucaihuo.com/js/124.html       登陆注册切换代码
-//http://echarts.baidu.com/examples.html   百度图表
-http://down.admin5.com/ 
-http://www.runoob.com/
-http://www.daohangcom.com      前端开发导航网站
-http://www.mhtml5.com/         HTML5研究小组
-http://www.uimaker.com/        UI制造
-http://www.moosee.net/         MooSee摩色
-http://appui.mobi/
-http://loveui.cn/
-http://www.boxui.com/         盒子UI
-http://www.mobiue.com/        移动设备产品设计
-http://www.pingwest.com/tag/android-desi     AndroidUI设计指导
-http://www.tappgala.com/
-www.linktal.com我们主要把优质开发者的业余时间和技能按照小时计费的方式为我们平台的用户提供开发和设计服务，希望有机会合作
-
-https://babeljs.io/repl 在线实验babel
+ * [HTML5研究小组](http://www.mhtml5.com/)
+ * [UI制造](http://www.uimaker.com/)
+ * [MooSee摩色](http://www.moosee.net/)
+ * http://appui.mobi/
+ * http://loveui.cn/
+ * 盒子UI	http://www.boxui.com/
+ * 移动设备产品设计	http://www.mobiue.com/
+ * AndroidUI设计指导	http://www.pingwest.com/tag/android-desi
+ * http://www.tappgala.com/
+ * js特效代码网	http://www.jstxdm.com/show-17-750.html
+ * 微信jssdk文档	https://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html
+ * ionic	"http://www.ionic.wang/js_doc-index.html
+ * http://www.runoob.com/ionic/ionic-install.html
+ * http://www.ionic.wang/css_doc-index.html"
+ * ngrouter  路由	http://www.cnblogs.com/ys-ys/p/5017610.html
+ * angular自定义指令	http://blog.csdn.net/zdy0_2004/article/details/50374435
+ * ES6	http://www.cnblogs.com/Wayou/p/es6_new_features.html
+ * 阮一峰的es6	http://es6.ruanyifeng.com/
+ * vue.js	http://cn.vuejs.org/
+ * requer	https://github.com/requirejs/r.js
+ * webpack	"http://www.jianshu.com/p/42e11515c10f#
+ * http://sentsin.com/web/1089.html
+ * http://mobile.51cto.com/web-439711.htm
+ * http://blog.csdn.net/sinat_17775997/article/details/52399818"
+ * 压缩图片	https://tinypng.com/
+ * 微信小程序	https://mp.weixin.qq.com/debug/wxadoc/dev/
+ * object defineprototype 	https://msdn.microsoft.com/zh-cn/library/f5s9ycex(v=vs.94).aspx
+ * vux	https://vux.li/#/zh-CN/demos/actionsheet
+ * vuex简介书	http://www.jianshu.com/p/490e7726fe67
+ * javascript	http://www.jb51.net/onlineread/JavaScript-Garden-CN/#function.closures
+ * 1502FE.A的git网址	https://gitlab.com/hujun-hujun/1502FE.A/tree/master
+ * React 网址	https://facebook.github.io/react/index.html
+ * vue视频慕课网	http://www.imooc.com/video/12301    慕课网 13718811637  19931208abc
+ * react.api  极客学院 	"http://wiki.jikexueyuan.com/project/react/component-api.html
+ * http://blog.csdn.net/superskk6/article/details/7405973
+ * //vuex
+ * http://vuex.vuejs.org/zh-cn/intro.html"
+ * /面试	http://h5.flyfinger.com/baiduobang/qa/index.html?from=groupmessage&isappinstalled=0&mz_ca=2014668&mz_sp=6xuzH
+ * 移动端的bug	"http://www.imooc.com/article/2415
+ * //echarts
+ * http://echarts.baidu.com/index.html"
+ * jslite	http://sentsin.com/web/989.html
+ * 盒子居中	http://tieba.baidu.com/p/2743929001
+ * vuex 1.0	https://github.com/vuejs/vuex/tree/1.0/docs/zh-cn
+ * 后台管理	http://wrapbootstrap.com/preview/WB0R5L90S
+ * element官方	http://element.eleme.io/#/zh-CN/component/date-picker、
+ * 简书	http://www.jianshu.com/p/0a7aef90d0e8
+ * 日历的插件	"http://www.jq22.com/yanshi3814
+ * http://www.jq22.com/jquery-info2107"
+ * 微信小程序的资料	http://case.zihai24.com/index.php?p=list&lanmu=50
+ * 以后会用的到的资料   插件	http://www.17sucai.com/pins/tag/1231.html
+ * 滴滴出行	"https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension
+ * https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension
+ * vue-resource"
+ * eslint规则
+ * Stylus中文文档
+ * 设备像素比	http://www.zhangxinxu.com/wordpress/2012/08/window-devicepixelratio/
+ * flex布局
+ * 贝塞尔曲线测试	http://cubic-bezier.com/
+ * 1px的border	http://blog.csdn.net/qq_34543438/article/details/73839086
+ * 图标字体制作	http://blog.csdn.net/qq_34543438/article/details/73825973
+ * elementUI:	http://element.eleme.io/#/zh-CN/component/date-picker、
+ * mint-u移动端 ui库	http://mint-ui.github.io/
+ * 懒人图库	http://www.lanrentuku.com/
+ * http://wetest.qq.com/ 。    远程真机测试 。  账号qq：33710068
+ * http://fis.baidu.com/   FIS3 , 为你定制的前端工程构建工具
+ * http://www.html5tricks.com/                                 HTML5+CSS3
+ * http://www.w3school.com.cn/jquery/jquery_hide_show.asp       jquery特效
+ * http://yuncode.net/code/c_50dd4f40ccf3d72                     滚动条插件API
+ * http://www.jb51.net/w3school/tags/html_ref_standardattributes.htm   在线手册
+ * http://www.51xuediannao.com/js/texiao/erjiliandong.html  特效代码齐全
+ * http://www.runoob.com/angularjs/angularjs-controllers.html AngularJS
+ * http://www.sucaihuo.com/js/124.html       登陆注册切换代码
+ * //http://echarts.baidu.com/examples.html   百度图表
+ * http://down.admin5.com/
+ * http://www.runoob.com/
+ * http://www.daohangcom.com      前端开发导航网站
+ * http://www.mhtml5.com/         HTML5研究小组
+ * http://www.uimaker.com/        UI制造
+ * http://www.moosee.net/         MooSee摩色
+ * http://appui.mobi/
+ * http://loveui.cn/
+ * http://www.boxui.com/         盒子UI
+ * http://www.mobiue.com/        移动设备产品设计
+ * http://www.pingwest.com/tag/android-desi     AndroidUI设计指导
+ * http://www.tappgala.com/
+ * www.linktal.com我们主要把优质开发者的业余时间和技能按照小时计费的方式为我们平台的用户提供开发和设计服务，希望有机会合作
+ *
+ * https://babeljs.io/repl 在线实验babel
