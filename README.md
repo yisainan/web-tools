@@ -818,21 +818,19 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [react.api  极客学院](http://wiki.jikexueyuan.com/project/react/component-api.html)
  * http://blog.csdn.net/superskk6/article/details/7405973
  * [vuex](http://vuex.vuejs.org/zh-cn/intro.html)
- * /面试	http://h5.flyfinger.com/baiduobang/qa/index.html?from=groupmessage&isappinstalled=0&mz_ca=2014668&mz_sp=6xuzH
- * 移动端的bug	"http://www.imooc.com/article/2415
- * //echarts
- * http://echarts.baidu.com/index.html"
- * [jslite]	http://sentsin.com/web/989.html
- * [盒子居中]	http://tieba.baidu.com/p/2743929001
- * [vuex 1.0]	https://github.com/vuejs/vuex/tree/1.0/docs/zh-cn
- * [后台管理]	http://wrapbootstrap.com/preview/WB0R5L90S
- * [element官方]	http://element.eleme.io/#/zh-CN/component/date-picker、
- * [简书]	http://www.jianshu.com/p/0a7aef90d0e8
- * [日历的插件]	"http://www.jq22.com/yanshi3814
- * http://www.jq22.com/jquery-info2107"
- * [微信小程序的资料]	http://case.zihai24.com/index.php?p=list&lanmu=50
+ * [面试](http://h5.flyfinger.com/baiduobang/qa/index.html?from=groupmessage&isappinstalled=0&mz_ca=2014668&mz_sp=6xuzH)
+ * [移动端的bug](http://www.imooc.com/article/2415)
+ * [echarts](http://echarts.baidu.com/index.html)
+ * [jslite](http://sentsin.com/web/989.html)
+ * [盒子居中](http://tieba.baidu.com/p/2743929001)
+ * [vuex 1.0](https://github.com/vuejs/vuex/tree/1.0/docs/zh-cn)
+ * [后台管理](http://wrapbootstrap.com/preview/WB0R5L90S)
+ * [element官方](http://element.eleme.io/#/zh-CN/component/date-picker)
+ * [简书](http://www.jianshu.com/p/0a7aef90d0e8)
+ * [日历的插件](http://www.jq22.com/yanshi3814)
+ * [微信小程序的资料](http://case.zihai24.com/index.php?p=list&lanmu=50)
  * [以后会用的到的资料]   插件	http://www.17sucai.com/pins/tag/1231.html
- * [滴滴出行]	"https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension
+ * [滴滴出行](https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension)
  * https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension
  * vue-resource"
  * eslint规则
