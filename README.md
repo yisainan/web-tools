@@ -829,42 +829,35 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [简书](http://www.jianshu.com/p/0a7aef90d0e8)
  * [日历的插件](http://www.jq22.com/yanshi3814)
  * [微信小程序的资料](http://case.zihai24.com/index.php?p=list&lanmu=50)
- * [以后会用的到的资料]   插件	http://www.17sucai.com/pins/tag/1231.html
  * [滴滴出行](https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension)
  * https://juejin.im/post/584e48b2ac502e006c74a120?utm_source=gold_browser_extension
- * vue-resource"
- * eslint规则
- * Stylus中文文档
- * 设备像素比	http://www.zhangxinxu.com/wordpress/2012/08/window-devicepixelratio/
- * flex布局
- * 贝塞尔曲线测试	http://cubic-bezier.com/
- * 1px的border	http://blog.csdn.net/qq_34543438/article/details/73839086
- * 图标字体制作	http://blog.csdn.net/qq_34543438/article/details/73825973
- * elementUI:	http://element.eleme.io/#/zh-CN/component/date-picker、
- * mint-u移动端 ui库	http://mint-ui.github.io/
- * 懒人图库	http://www.lanrentuku.com/
- * http://wetest.qq.com/ 。    远程真机测试 。  账号qq：33710068
- * http://fis.baidu.com/   FIS3 , 为你定制的前端工程构建工具
- * http://www.html5tricks.com/                                 HTML5+CSS3
- * http://www.w3school.com.cn/jquery/jquery_hide_show.asp       jquery特效
- * http://yuncode.net/code/c_50dd4f40ccf3d72                     滚动条插件API
- * http://www.jb51.net/w3school/tags/html_ref_standardattributes.htm   在线手册
- * http://www.51xuediannao.com/js/texiao/erjiliandong.html  特效代码齐全
- * http://www.runoob.com/angularjs/angularjs-controllers.html AngularJS
- * http://www.sucaihuo.com/js/124.html       登陆注册切换代码
- * //http://echarts.baidu.com/examples.html   百度图表
+ * [设备像素比](http://www.zhangxinxu.com/wordpress/2012/08/window-devicepixelratio/)
+ * [贝塞尔曲线测试](http://cubic-bezier.com/)
+ * [1px的border](http://blog.csdn.net/qq_34543438/article/details/73839086)
+ * [图标字体制作](http://blog.csdn.net/qq_34543438/article/details/73825973)
+ * [elementUI](http://element.eleme.io/#/zh-CN/component/date-picker)
+ * [mint-u移动端](http://mint-ui.github.io/)
+ * [懒人图库]	(http://www.lanrentuku.com/)
+ * [远程真机测试 账号qq：33710068](http://wetest.qq.com/)
+ * [FIS3 , 为你定制的前端工程构建工具](http://fis.baidu.com/)
+ * [HTML5+CSS3](http://www.html5tricks.com/)
+ * [jquery特效](http://www.w3school.com.cn/jquery/jquery_hide_show.asp)
+ * [滚动条插件API](http://yuncode.net/code/c_50dd4f40ccf3d72)
+ * [在线手册](http://www.jb51.net/w3school/tags/html_ref_standardattributes.htm)
+ * [特效代码齐全](http://www.51xuediannao.com/js/texiao/erjiliandong.html)
+ * [AngularJS](http://www.runoob.com/angularjs/angularjs-controllers.html)
+ * http://www.sucaihuo.com/js/124.html
+ * [百度图表](http://echarts.baidu.com/examples.html)
  * http://down.admin5.com/
  * http://www.runoob.com/
- * http://www.daohangcom.com      前端开发导航网站
- * http://www.mhtml5.com/         HTML5研究小组
- * http://www.uimaker.com/        UI制造
- * http://www.moosee.net/         MooSee摩色
+ * [前端开发导航网站](http://www.daohangcom.com)
+ * [HTML5研究小组](http://www.mhtml5.com/)
+ * [UI制造](http://www.uimaker.com/)
+ * [MooSee摩色](http://www.moosee.net/)
  * http://appui.mobi/
  * http://loveui.cn/
- * http://www.boxui.com/         盒子UI
- * http://www.mobiue.com/        移动设备产品设计
- * http://www.pingwest.com/tag/android-desi     AndroidUI设计指导
+ * [盒子UI](http://www.boxui.com/)
+ * [移动设备产品设计](http://www.mobiue.com/)
  * http://www.tappgala.com/
- * www.linktal.com我们主要把优质开发者的业余时间和技能按照小时计费的方式为我们平台的用户提供开发和设计服务，希望有机会合作
- *
- * https://babeljs.io/repl 在线实验babel
+ * [我们主要把优质开发者的业余时间和技能按照小时计费的方式为我们平台的用户提供开发和设计服务，希望有机会合作](www.linktal.com)
+ * [在线实验](babelhttps://babeljs.io/repl)
