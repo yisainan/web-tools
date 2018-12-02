@@ -774,13 +774,12 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [HTML5+CSS3](http://www.html5tricks.com/)
  * [jquery特效](http://www.w3school.com.cn/jquery/jquery_hide_show.asp)
  * [滚动条插件API](http://yuncode.net/code/c_50dd4f40ccf3d72)
- * [在线手册]	(http://www.jb51.net/w3school/tags/html_ref_standardattributes.htm)
  * [特效代码齐全](http://www.51xuediannao.com/js/texiao/erjiliandong.html)
  * [AngularJS](http://www.runoob.com/angularjs/angularjs-controllers.html)
  * [登陆注册切换代码](http://www.sucaihuo.com/js/124.html)
- * [百度图表]	(http://echarts.baidu.com/examples.html)
- * http://down.admin5.com/
- * http://www.runoob.com/
+ * [百度图表](http://echarts.baidu.com/examples.html)
+ * [A5源码](http://down.admin5.com/)
+ * [runoob.com](http://www.runoob.com/)
  * [HTML5研究小组](http://www.mhtml5.com/)
  * [UI制造](http://www.uimaker.com/)
  * [MooSee摩色](http://www.moosee.net/)
@@ -790,7 +789,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [移动设备产品设计](http://www.mobiue.com/)
  * [AndroidUI设计指导](http://www.pingwest.com/tag/android-desi)
  * http://www.tappgala.com/
- * [js特效代码网]	(http://www.jstxdm.com/show-17-750.html)
+ * [js特效代码网](http://www.jstxdm.com/show-17-750.html)
  * [微信jssdk文档](https://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html)
  * [ionic](http://www.ionic.wang/js_doc-index.html)
  * http://www.runoob.com/ionic/ionic-install.html
@@ -805,7 +804,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * http://sentsin.com/web/1089.html
  * http://mobile.51cto.com/web-439711.htm
  * http://blog.csdn.net/sinat_17775997/article/details/52399818"
- * [压缩图片]	(https://tinypng.com/)
+ * [压缩图片](https://tinypng.com/)
  * [微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/)
  * [object defineprototype](https://msdn.microsoft.com/zh-cn/library/f5s9ycex(v=vs.94).aspx)
  * [vux](https://vux.li/#/zh-CN/demos/actionsheet)
@@ -837,7 +836,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [图标字体制作](http://blog.csdn.net/qq_34543438/article/details/73825973)
  * [elementUI](http://element.eleme.io/#/zh-CN/component/date-picker)
  * [mint-u移动端](http://mint-ui.github.io/)
- * [懒人图库]	(http://www.lanrentuku.com/)
+ * [懒人图库](http://www.lanrentuku.com/)
  * [远程真机测试 账号qq：33710068](http://wetest.qq.com/)
  * [FIS3 , 为你定制的前端工程构建工具](http://fis.baidu.com/)
  * [HTML5+CSS3](http://www.html5tricks.com/)
@@ -860,4 +859,4 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [移动设备产品设计](http://www.mobiue.com/)
  * http://www.tappgala.com/
  * [我们主要把优质开发者的业余时间和技能按照小时计费的方式为我们平台的用户提供开发和设计服务，希望有机会合作](www.linktal.com)
- * [在线实验](babelhttps://babeljs.io/repl)
+ * [在线实验babel](https://babeljs.io/repl)
