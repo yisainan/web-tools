@@ -858,5 +858,5 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [盒子UI](http://www.boxui.com/)
  * [移动设备产品设计](http://www.mobiue.com/)
  * http://www.tappgala.com/
- * [我们主要把优质开发者的业余时间和技能按照小时计费的方式为我们平台的用户提供开发和设计服务，希望有机会合作](www.linktal.com)
+ * [我们主要把优质开发者的业余时间和技能按照小时计费的方式为我们平台的用户提供开发和设计服务，希望有机会合作](http://www.linktal.com)
  * [在线实验babel](https://babeljs.io/repl)
