@@ -174,7 +174,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [常用的JavaScript代码片段](http://microjs.com/)
  * [WEB前端开发](http://microjs.com/)
  * [常用的JavaScript代码片段](http://www.css88.com/)
- * [w3help](http://www.w3help.org/) (综合Bug集合网站)
+ * [w3help](http://www.w3help.org/)(综合Bug集合网站)
 
 ## 周报类
 
