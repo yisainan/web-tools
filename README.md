@@ -755,6 +755,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/)
  * [前端资源导航](https://github.com/jnoodle/f2e-collect)
  * [CTOLIB码库](https://javascript.ctolib.com/)
+ * [IT营](https://www.itying.com)
 
 ## 常用CDN
 
