@@ -306,6 +306,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [webpack](https://github.com/webpack/webpack)
  * [Webpack，101入门体验](http://html-js.com/article/3009)
  * [React原创实战视频教程](http://www.piliyu.com/)
+ * [react个人所需网站整理](react:https://blog.csdn.net/qq_30100043/article/details/77630995)
 
 ## vue类
 
