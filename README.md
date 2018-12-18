@@ -807,7 +807,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [1502FE.A的git网址](https://gitlab.com/hujun-hujun/1502FE.A/tree/master)
  * [React 网址](https://facebook.github.io/react/index.html)
  * [vue视频慕课网](http://www.imooc.com/video/12301)
-    慕课网 13718811637  19931208abc
  * [react.api  极客学院](http://wiki.jikexueyuan.com/project/react/component-api.html)
  * http://blog.csdn.net/superskk6/article/details/7405973
  * [vuex](http://vuex.vuejs.org/zh-cn/intro.html)
