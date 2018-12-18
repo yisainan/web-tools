@@ -741,14 +741,15 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 
 ## 前端导航网站
 
- * [前端网址导航](http://www.daqianduan.com/nav)
- * [前端开发资源](http://www.css88.com/nav)
+ * [大前端](http://www.daqianduan.com/nav)
+ * [CSS88](http://www.css88.com/)
  * [网址导航](http://www.haourl.cn/)
- * [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/)
+ * [前端开发仓库](http://code.ciaoca.com/)
  * [前端资源导航](https://github.com/jnoodle/f2e-collect)
  * [CTOLIB码库](https://javascript.ctolib.com/)
  * [IT营](https://www.itying.com)
  * [轮子工厂](http://www.wheelsfactory.cn)
+ * [uyi2](http://www.uyi2.com)
 
 ## 常用CDN
 
@@ -842,8 +843,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [百度图表](http://echarts.baidu.com/examples.html)
  * http://down.admin5.com/
  * http://www.runoob.com/
- * [前端开发导航网站](http://www.daohangcom.com)
- * [HTML5研究小组](http://www.mhtml5.com/)
  * [UI制造](http://www.uimaker.com/)
  * [MooSee摩色](http://www.moosee.net/)
  * http://appui.mobi/
