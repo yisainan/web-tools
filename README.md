@@ -305,6 +305,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [webpack](https://github.com/webpack/webpack)
  * [Webpack，101入门体验](http://html-js.com/article/3009)
  * [React原创实战视频教程](http://www.piliyu.com/)
+ * [react个人所需网站整理](react:https://blog.csdn.net/qq_30100043/article/details/77630995)
 
 ## vue类
 
@@ -761,7 +762,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [Google jQuery CDN](http://www.google-jquery-cdn.com/)
  * [微软CDN](http://www.asp.net/ajax/cdn)
 
- 《前端相关》
+## 《前端相关》
  * [SEO关键词查询](https://tools.aizhan.com/ydpm/)
  * [前端开发导航网站](http://www.daohangcom.com)
  * [HTML5+CSS3](http://www.html5tricks.com/)
@@ -853,3 +854,5 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * http://www.tappgala.com/
  * [我们主要把优质开发者的业余时间和技能按照小时计费的方式为我们平台的用户提供开发和设计服务，希望有机会合作](http://www.linktal.com)
  * [在线实验babel](https://babeljs.io/repl)
+ * [码工在线](http://www.001daima.com/)
+ * [BeJson功能强大](https://www.bejson.com)
