@@ -164,7 +164,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [大前端工具集 - 聂微东](https://github.com/nieweidong/fetool)
  * [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
  * [常用的JavaScript代码片段](http://microjs.com/)
- * [WEB前端开发](http://microjs.com/)
  * [常用的JavaScript代码片段](http://www.css88.com/)
  * [w3help](http://www.w3help.org/)(综合Bug集合网站)
 
@@ -748,6 +747,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [前端资源导航](https://github.com/jnoodle/f2e-collect)
  * [CTOLIB码库](https://javascript.ctolib.com/)
  * [IT营](https://www.itying.com)
+ * [轮子工厂](http://www.wheelsfactory.cn)
 
 ## 常用CDN
 
