@@ -778,8 +778,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [HTML5研究小组](http://www.mhtml5.com/)
  * [UI制造](http://www.uimaker.com/)
  * [MooSee摩色](http://www.moosee.net/)
- * http://appui.mobi/
- * http://loveui.cn/
  * [盒子UI](http://www.boxui.com/)
  * [移动设备产品设计](http://www.mobiue.com/)
  * [AndroidUI设计指导](http://www.pingwest.com/tag/android-desi)
