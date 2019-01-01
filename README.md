@@ -287,8 +287,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [angular ui](http://mgcrea.github.io/angular-strap)
  * [整合jQuery Mobile+AngularJS经验谈](http://www.tuicool.com/articles/7ZZVr2)
  * [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/)
- * [AngularJS在线教程](http://each.sinaapp.com/angular)
- * [angular学习笔记](http://www.zouyesheng.com/angular.html)
+ * [AngularJS在线教程](http://each.sinaapp.com/angular）
 
 ## React类
 
