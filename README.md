@@ -75,7 +75,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
   * [摄图网](http://699pic.com/)
   * [SuperSlidev2.1 -- 大话主席](http://www.superslide2.com/)
   * [soChange](http://www.bujichong.com/sojs/soChange/index.html)
-  * [单屏轮播sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
   * [左右按钮多图切换](http://bxslider.com/examples/carousel-demystified)
   * [fullpage全屏轮播](https://github.com/alvarotrigo/fullPage.js)
   * [无缝切换](http://www.swipejs.com/)
