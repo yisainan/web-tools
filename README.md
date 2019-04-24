@@ -119,7 +119,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
   * [墨刀](https://modao.cc/) (画原型图)
   * [石墨文档](https://shimo.im/) (多人实时协作的云端文档与表格)
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
-  * [Enhancv](https://enhancv.com/) (生成简历)
   * [KOPPT](http://www.koppt.cn/index) (ppt 模板)
   * [Canva](https://www.canva.com/templates/) (设计模板)
   * [ProcessOn](https://www.processon.com/;jsessionid=EC0CB59BD105F6FD0294417AB0B0CC22.jvm1) (在线画流程图，思维导图、UI原型图等等)
