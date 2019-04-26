@@ -308,6 +308,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
  * [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
  * [awesome-vue](https://github.com/vuejs/awesome-vue)
+ * [element官方](http://element.eleme.io/#/zh-CN/component/date-picker)
 
 ## 移动端类
 
@@ -811,7 +812,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [盒子居中](http://tieba.baidu.com/p/2743929001)
  * [vuex 1.0](https://github.com/vuejs/vuex/tree/1.0/docs/zh-cn)
  * [后台管理](http://wrapbootstrap.com/preview/WB0R5L90S)
- * [element官方](http://element.eleme.io/#/zh-CN/component/date-picker)
  * [简书](http://www.jianshu.com/p/0a7aef90d0e8)
  * [日历的插件](http://www.jq22.com/yanshi3814)
  * [微信小程序的资料](http://case.zihai24.com/index.php?p=list&lanmu=50)
