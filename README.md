@@ -168,7 +168,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [奇舞周刊](http://old.75team.com/weekly/)
  * [码农周刊](http://weekly.manong.io/)
  * [JS前端开发群月报](http://www.kancloud.cn/jsfront/month/82796)
- * [A JS tip per day!](http://www.jstips.co/)
  * [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
 
 ## 开发中心类
