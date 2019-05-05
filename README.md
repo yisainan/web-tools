@@ -13,7 +13,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
 - [综合类](#综合类)
 - [工具类](#工具类)
 - [周报类](#周报类)
-- [开发中心类](#开发中心类)
 - [Nodejs类](#Nodejs类)
 - [综合API类](#综合API类)
 - [Ecmascript类](#Ecmascript类)
@@ -169,15 +168,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [码农周刊](http://weekly.manong.io/)
  * [JS前端开发群月报](http://www.kancloud.cn/jsfront/month/82796)
  * [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
-
-## 开发中心类
-
- * [mozilla js参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
- * [chrome开发中心（chrome的内核已转向blink）](https://developer.chrome.com/extensions/api_index.html)
- * [safari开发中心](https://developer.apple.com/library/safari/navigation)
- * [microsoft js参考](https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94.aspx)
- * [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
- * [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh)
 
 ## Nodejs类
 
