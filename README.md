@@ -60,7 +60,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
   * [Tinypng](https://tinypng.com/) | [智图](http://zhitu.isux.us/) (压缩图片)
   * [Cool Backgrounds](https://coolbackgrounds.io/) (生成好看的渐变背景图)
   * [iconfont](http://www.iconfont.cn/plus) (阿里巴巴矢量图标库)
-  * [Preloaders](https://icons8.com/preloaders/) | [LOADING.IO](https://loading.io/) (加载图，**有些是收费的**)
   * [desktoppr](https://www.desktoppr.co/wallpapers) (好看的壁纸)
   * [Iloveimg](https://www.iloveimg.com/zh-cn) (批量编辑图片的所有工具。包括压缩图片，剪裁图片，图片加水印，转化至jpg图片等等)
   * [zoommyapp.com](http://zoommyapp.com/) (高质量图库)
