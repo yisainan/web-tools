@@ -834,3 +834,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [在线实验babel](https://babeljs.io/repl)
  * [码工在线](http://www.001daima.com/)
  * [BeJson功能强大](https://www.bejson.com)
+ * [国内知名前端团队](https://github.com/Fork-GitHub/awesome-fe-team)
+ * [前端开发知识结构](http://html5ify.com/fks/)
+ * [前端相关工具](https://github.com/yisainan/web-tools)
+ * [前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
