@@ -775,8 +775,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [angular自定义指令](http://blog.csdn.net/zdy0_2004/article/details/50374435)
  * [ES6](http://www.cnblogs.com/Wayou/p/es6_new_features.html)
  * [阮一峰的es6](http://es6.ruanyifeng.com/)
- * [vue.js](http://cn.vuejs.org/)
- * [requer](https://github.com/requirejs/r.js)
+ * [require](https://github.com/requirejs/r.js)
  * [webpack](http://www.jianshu.com/p/42e11515c10f#)
  * http://sentsin.com/web/1089.html
  * http://mobile.51cto.com/web-439711.htm
