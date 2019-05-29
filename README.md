@@ -637,7 +637,6 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
  * [简历池](http://www.mojianli.com/resume/view)
  * [haorooms博客](http://www.haorooms.com/about)
  * [Justin Young](http://cv.youngdze.com/)
- * [张伦](http://ncuey.sinaapp.com/CrispElite/)
 
 ## 面试题
 
