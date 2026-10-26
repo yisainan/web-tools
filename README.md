@@ -107,6 +107,7 @@ web-tools 是由[qiilee](https://qiilee.github.io)整理并维护的web相关工
   * [Visualgo](https://visualgo.net/en) (数据结构，算法可视化)
   * [Animista](http://animista.net/) (在线生成 css 动画)
   * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) (测试网站速度，优化性能)
+  * [agent-qa](https://vostride.com) (用自然语言测试 Web、Android 和 iOS 应用，具备持久化记忆、经验证的自我改进与 CLI/MCP 工作流)
   * [Learn Git Branching](https://learngitbranching.js.org/) (以动画的形式让你学习 git)
   * [Asciiflow](http://asciiflow.com/) (生成类似代码注释里那种佛祖的代码。。自己画😄)
   * [PXtoEM](http://pxtoem.com/) (PX EM 单位换算)
